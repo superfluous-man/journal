@@ -1,0 +1,282 @@
+/* 自定義頁面字體 */
+@font-face {
+  font-family: 'SYHei Regular';
+  src: url(fonts/GenYoGothicTW-Regular.eot);
+  src: url(fonts/GenYoGothicTW-Regular.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenYoGothicTW-Regular.woff2) format('woff2'),
+       url(fonts/GenYoGothicTW-Regular.woff) format('woff'),
+       url(fonts/GenYoGothicTW-Regular.ttf) format('truetype'),
+       url(fonts/GenYoGothicTW-Regular.svg#GenYoGothicTW-Regular) format('svg');
+}
+
+@font-face {
+  font-family: 'SYHei Medium';
+  src: url(fonts/GenYoGothicTW-Medium.eot);
+  src: url(fonts/GenYoGothicTW-Medium.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenYoGothicTW-Medium.woff2) format('woff2'),
+       url(fonts/GenYoGothicTW-Medium.woff) format('woff'),
+       url(fonts/GenYoGothicTW-Medium.ttf) format('truetype'),
+       url(fonts/GenYoGothicTW-Medium.svg#GenYoGothicTW-Medium) format('svg');
+}
+
+@font-face {
+  font-family: 'SYHei Bold';
+  src: url(fonts/GenYoGothicTW-Bold.eot);
+  src: url(fonts/GenYoGothicTW-Bold.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenYoGothicTW-Bold.woff2) format('woff2'),
+       url(fonts/GenYoGothicTW-Bold.woff) format('woff'),
+       url(fonts/GenYoGothicTW-Bold.ttf) format('truetype'),
+       url(fonts/GenYoGothicTW-Bold.svg#GenYoGothicTW-Bold) format('svg');
+}
+
+@font-face {
+  font-family: 'SYHei Heavy';
+  src: url(fonts/GenYoGothicTW-Heavy.eot);
+  src: url(fonts/GenYoGothicTW-Heavy.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenYoGothicTW-Heavy.woff2) format('woff2'),
+       url(fonts/GenYoGothicTW-Heavy.woff) format('woff'),
+       url(fonts/GenYoGothicTW-Heavy.ttf) format('truetype'),
+       url(fonts/GenYoGothicTW-Heavy.svg#GenYoGothicTW-Heavy) format('svg');
+}
+
+@font-face {
+  font-family: 'SYSong SemiBold';
+  src: url(fonts/GenWanMinTW-SemiBold.eot);
+  src: url(fonts/GenWanMinTW-SemiBold.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenWanMinTW-SemiBold.woff2) format('woff2'),
+       url(fonts/GenWanMinTW-SemiBold.woff) format('woff'),
+       url(fonts/GenWanMinTW-SemiBold.ttf) format('truetype'),
+       url(fonts/GenWanMinTW-SemiBold.svg#GenWanMinTW-SemiBold) format('svg');
+}
+
+@font-face {
+  font-family: 'SYSong Regular';
+  src: url(fonts/GenWanMinTW-Regular.eot);
+  src: url(fonts/GenWanMinTW-Regular.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenWanMinTW-Regular.woff2) format('woff2'),
+       url(fonts/GenWanMinTW-Regular.woff) format('woff'),
+       url(fonts/GenWanMinTW-Regular.ttf) format('truetype'),
+       url(fonts/GenWanMinTW-Regular.svg#GenWanMinTW-Regular) format('svg');
+}
+
+@font-face {
+  font-family: 'SYSong Medium';
+  src: url(fonts/GenWanMinTW-Medium-TTF.eot);
+  src: url(fonts/GenWanMinTW-Medium-TTF.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenWanMinTW-Medium-TTF.woff2) format('woff2'),
+       url(fonts/GenWanMinTW-Medium-TTF.woff) format('woff'),
+       url(fonts/GenWanMinTW-Medium-TTF.ttf) format('truetype'),
+       url(fonts/GenWanMinTW-Medium-TTF.svg#GenWanMinTW-Medium-TTF) format('svg');
+}
+
+@font-face {
+  font-family: 'SYSong Light';
+  src: url(fonts/GenWanMinTW-Light.eot);
+  src: url(fonts/GenWanMinTW-Light.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GenWanMinTW-Light.woff2) format('woff2'),
+       url(fonts/GenWanMinTW-Light.woff) format('woff'),
+       url(fonts/GenWanMinTW-Light.ttf) format('truetype'),
+       url(fonts/GenWanMinTW-Light.svg#GenWanMinTW-Light) format('svg');
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  src: url(fonts/fontawesome-webfont.eot);
+  src: url(fonts/fontawesome-webfont.eot?#iefix) format('embedded-opentype'),
+       url(fonts/fontawesome-webfont.woff2) format('woff2'),
+       url(fonts/fontawesome-webfont.woff) format('woff'),
+       url(fonts/fontawesome-webfont.ttf) format('truetype'),
+       url(fonts/fontawesome-webfont.svg#fontawesome-webfont) format('svg');
+}
+
+@font-face {
+  font-family: 'GNUTypewriterStandard';
+  src: url(fonts/GNUTypewriterStandard.eot);
+  src: url('fonts/fonts/gnutypewriter/8a7cb57723df9125503083ed59e7a11c/718af758a8ac10cf79fcc33420aacc3e/GNUTypewriterStandard.ttf') format('truetype'),url(fonts/GNUTypewriterStandard.eot?#iefix) format('embedded-opentype'),
+       url(fonts/GNUTypewriterStandard.woff2) format('woff2'),
+       url(fonts/GNUTypewriterStandard.woff) format('woff'),
+       url(fonts/GNUTypewriterStandard.ttf) format('truetype'),
+       url(fonts/GNUTypewriterStandard.svg#GNUTypewriterStandard) format('svg');
+}
+
+/* roboto-300italic - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  src: local('Roboto Light Italic'), local('Roboto-LightItalic'),
+       url('fonts/roboto-v19-latin-300italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-v19-latin-300italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'),
+       url('fonts/roboto-v19-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-v19-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+       url('fonts/roboto-v19-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-v19-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-mono-regular - latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Mono'), local('RobotoMono-Regular'),
+       url('fonts/roboto-mono-v6-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('fonts/roboto-mono-v6-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+/* 標題樣式 */
+
+main {
+	counter-reset: section-1, section-2, section-3, section-4;
+}
+
+h1 {
+	 margin: -.06em 0 0.5em 0;
+         text-indent: 0rem;
+         font-size: 39px;
+         font-family: "SYHei Heavy", sans-serif;
+         font-weight: normal;
+         text-align: center; 
+	 line-height: 40px;
+	 counter-increment: section-1;
+	 counter-reset: section-2 section-3 section-4;
+         padding: 9px 0px 5px 0%;
+	 color: #424949;
+}
+
+h2 {
+	margin: 1em 0 0.5em 0;
+	color: #0E6251;
+        font-size: 27px;
+        font-family: "SYHei Heavy", sans-serif;
+        font-weight: normal;
+	line-height: 36px;
+        text-align: center;
+	counter-increment: section-2;
+	counter-reset: section-3 section-4;
+	  border-bottom: solid 3px #517a72;
+	  width: 7em;
+	  position: relative;
+}
+h2:after {
+  position: absolute;
+  content: " ";
+  display: block;
+  top: 104%;
+  left: 5px;
+  border: 16px solid transparent;
+  border-top: 12px solid #517a72;
+  width: 0;
+  height: 0;
+}
+h3 {
+	margin: 1em 0 0.5em 0;
+	color: #424949;
+        font-size: 22px;
+        font-family: "SYHei Heavy", sans-serif;
+	line-height: 33px;
+	counter-increment: section-3;
+	counter-reset: section-4;
+        font-weight: normal;
+}
+h4 { /* Card Title  */
+        font-family: "SYHei Heavy", sans-serif;
+	margin: 0 0 0 0;
+	color: #424949;
+	font-size: 27px;
+	line-height: 40px;
+        font-weight: normal;
+        text-align: left;
+}
+h4author { /* Card Title  Author*/
+        font-family: "SYSong SemiBold", sans-serif;
+	color: #424949;
+	font-size: 1rem;
+  font-weight: normal;
+}
+.list-toc { /* Card Title  Author*/
+        font-family: "SYHei Medium", sans-serif;
+padding-left:0;
+list-style:none;
+font-size: 1.2rem;
+	line-height: 2rem;
+  font-weight: normal;
+}
+
+.list-toc-menu { /* list-toc in menu */
+        font-family: "SYHei Medium", sans-serif;
+padding-left:0;
+list-style:none;
+font-size: 1.2rem;
+	line-height: 1.8rem;
+  font-weight: normal;
+}
+
+sec-book-title {
+        margin-left:-0.77em;
+        display: inline-block;
+        font-family:"SYSong SemiBold",sans-serif;
+        font-size:1.25rem;
+        line-height:1.25rem;
+        text-align:center;
+        text-justify:inter-ideograph;
+        border-top:#424949 solid 2px;
+	      background: #0E6251;
+        color: #fff;
+        border-radius: 7px 7px 0 0;
+        padding: 8px 2px 4px;
+}
+
+/*h1:before {
+content: counter(section-1) ". "; 
+font-family: "SYHei Heavy", sans-serif;
+font-weight: normal;
+font-size: 37px;
+} */
+
+h2:before {
+content: counter(section-2)" 號 ";
+font-family: "SYHei Bold", sans-serif;
+font-size: 29px;
+font-weight: normal;
+color:#517a72;
+} /* content: "☯ " counter(section-1) " 月 " counter(section-2) " 日 "; * content: "☯ "counter(section-2)" 號 ";/
+
+/* h3:before {
+font-family: "SYHei Bold", sans-serif;
+font-weight: normal;
+content: counter(section-1) "." counter(section-2) "." counter(section-3) " ";
+font-size: 22px;
+} */
+
+/* 嘗試自定義書名與副標題格式 */
+.bookmaintitle {
+    font-family: "SYHei Heavy", sans-serif;
+    text-align: center;
+    margin: 0px 0px 7px 0px;
+    font-size: 2.3rem;
+    line-height: 3.5rem;
+}
+
+strong { 
+    font-family: "SYHei Bold", sans-serif;
+    font-weight: normal;
+}
+b {
+    font-family: "SYSong SemiBold", serif;
+    font-weight: normal;
+}
