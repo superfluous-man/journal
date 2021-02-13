@@ -154,23 +154,23 @@ h1 {
 	 line-height: 40px;
 	 counter-increment: section-1;
 	 counter-reset: section-2 section-3 section-4;
-         padding: 9px 0px 5px 0%;
+   padding: 9px 0px 5px 0%;
 	 color: #424949;
 }
 
 h2 {
-	margin: 1em 0 0.5em 0;
+	margin: 1em 0 0.8em 0;
 	color: #0E6251;
-        font-size: 27px;
-        font-family: "SYHei Heavy", sans-serif;
-        font-weight: normal;
+  font-size: 27px;
+  font-family: "SYHei Heavy", sans-serif;
+  font-weight: normal;
 	line-height: 36px;
-        text-align: center;
+  text-align: center;
 	counter-increment: section-2;
 	counter-reset: section-3 section-4;
-	  border-bottom: solid 3px #517a72;
-	  width: 7em;
-	  position: relative;
+	border-bottom: solid 3px #517a72;
+	width: 7em;
+	position: relative;
 }
 h2:after {
   position: absolute;
@@ -254,6 +254,9 @@ font-family: "SYHei Bold", sans-serif;
 font-size: 29px;
 font-weight: normal;
 color:#517a72;
+text-shadow:
+		1px 1px 0 #fff,
+		2px 2px 0 #999;
 } /* content: "☯ " counter(section-1) " 月 " counter(section-2) " 日 "; * content: "☯ "counter(section-2)" 號 ";/
 
 /* h3:before {
